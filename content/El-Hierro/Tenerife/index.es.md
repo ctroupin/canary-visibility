@@ -1,14 +1,15 @@
 ---
-title: "El Hierro"
+title: "Tenerife"
 date: 2019-06-17T23:53:00+01:00
 draft: true
 hideLastModified: true
 keepImageRatio: true
-summaryImage: "grancanaria_elhierro.jpg"
+summaryImage: "tenerife.jpg"
 summary: "Seeing Gran Canaria from El Hierro is possible, yet not frequent."
-tags: ["El Hierro", "Gran Canaria"]
+tags: ["Tenerife", "Gran Canaria"]
 ---
 
 
 distance: "240 km"
+summaryImage: "images/grancanaria.png" 
 
