@@ -131,14 +131,14 @@ params:
        title: Github
     # option to specify your gitlab account in the footer; 
     # **uncomment** the below lines to show in footer
-    # gitlab: 
+    gitlab: 
        link: ctroupin
        title: Gitlab
     # option to specify your twitter username in the footer;
     # **uncomment** the below lines to show in footer
-    # twitter: 
-        link: CharlesTroupin
-        title: Twitter
+    twitter: 
+       link: charlestroupin
+       title: Twitter
     # option to specify your instagram username in the footer; 
     # **uncomment** the below lines to show in footer
     # instagram: 
