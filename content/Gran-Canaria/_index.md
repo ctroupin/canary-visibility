@@ -1,5 +1,6 @@
 ---
 title: "Gran Canaria"
-date: 2019-06-04T21:55:06+01:00
+subtitle: "Thanks to its central position, Gran Canaria offers views to all the islands except La Palma."
+date: 2023-05-16T12:00:00+01:00
 draft: false
 ---

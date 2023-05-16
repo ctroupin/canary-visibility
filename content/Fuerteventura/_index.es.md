@@ -1,5 +1,7 @@
 ---
-title: "Tenerife"
-date: 2019-06-04T21:55:06+01:00
+title: "Fuerteventura"
+subtitle: "Mientras Lanzarote es visible casi cualquier día, Gran Canaria y Tenerife suelen esconderse detrás de las nubes."
+date: 2023-05-15T12:00:00+01:00
 draft: false
 ---
+

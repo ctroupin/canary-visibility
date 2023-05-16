@@ -1,5 +1,6 @@
 ---
 title: "La Gomera"
-date: 2019-06-04T21:55:06+01:00
+subtitle: "Desde La Gomera, se pueden ver todas las islas occidentas, así como Gran Canaria."
+date: 2023-05-03T11:25:00+01:00
 draft: false
 ---

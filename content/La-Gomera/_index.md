@@ -1,5 +1,6 @@
 ---
 title: "La Gomera"
-date: 2019-06-04T21:55:06+01:00
+subtitle: "From La Gomera, one can see all the western islands as well as Gran Canaria."
+date: 2023-05-03T11:25:00+01:00
 draft: false
 ---

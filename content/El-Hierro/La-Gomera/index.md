@@ -11,5 +11,6 @@ multiline"
 tags: ["La Gomera", "El Hierro"]
 ---
 
-okokokok
-okokokok
+Distance between summit: ... km    
+Shortest distance: km (between ... and ...)
+
