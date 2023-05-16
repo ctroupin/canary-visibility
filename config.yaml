@@ -9,7 +9,7 @@ theme: hugo-refresh
 #########################################
 # This options specify where to look for the images used in this config
 # The default value is the "asset" directory of this theme
-# assetDir: "static"
+assetDir: "static"
 
 # Option to specify the default language of the theme
 # I.e., the landing language of your root 
@@ -108,9 +108,9 @@ params:
     # option to specify the title in the homepage
     title: Visibility in the Canary Islands
     # option to specify the subtitle in the homepage
-    subtitle: Personal website and blog
+    subtitle: Discover which islands can be seen from every island, when the atmospheric conditions allow it.
     # option to specify image in the homepage
-    image: "/images/avataaars.png" # worker.svg 
+    image: "avataaars.png" # worker.svg 
     # option to specify the width of the image in the homepage
     imageWidth: 500px
 
@@ -150,7 +150,7 @@ params:
     #    link: username
     #    title: Telegram
     # option to specify the copyright in the footer
-    copyright: ctroupin - 2023
+    copyright: C. Troupin - 2023
 
 ###################################################################
 ################## multilanguage support options ##################
@@ -170,8 +170,8 @@ languages:
     params:
       homepage:
         title: Visibilidad en las Islas Canarias
-        subtitle: Персональный сайт и блог
-        image: "/images/avataaars.png" # worker.svg 
+        subtitle: Discubre que islas se pueden ver desde cada isla, cuando las condiciones atmosféricas lo permiten.
+        image: "avataaars.png" # worker.svg 
         imageWidth: 500px
       
       # Some sub-parameters of the "footer" parameter
