@@ -10,5 +10,5 @@ tags: ["El Hierro", "La Palma"]
 ---
 
 
-distance: "240 km"
-
+Distance between summits: 240 km.    
+Shortest distance: ... km (between ... and ...).

@@ -10,5 +10,6 @@ tags: ["Fuerteventura", "Lanzarote"]
 ---
 
 
-distance: "240 km"
+Distance between summits: 240 km.    
+Shortest distance: ... km (between ... and ...).
 

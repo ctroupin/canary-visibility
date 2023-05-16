@@ -11,5 +11,5 @@ multiline"
 tags: ["La Palma", "El Hierro"]
 ---
 
-okokokok
-okokokok
+Distance between summits: 240 km.    
+Shortest distance: ... km (between ... and ...).

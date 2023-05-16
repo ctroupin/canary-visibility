@@ -5,11 +5,9 @@ draft: false
 hideLastModified: true
 keepImageRatio: true
 summaryImage: "lapalma.jpg"
-summary: "This summary \
-is \
-multiline"
+summary: "     "
 tags: ["La Palma", "Tenerife"]
 ---
 
-okokokok
-okokokok
+Distance between summits: 240 km.    
+Shortest distance: ... km (between ... and ...).

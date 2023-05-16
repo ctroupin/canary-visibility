@@ -5,11 +5,10 @@ draft: false
 hideLastModified: true
 keepImageRatio: true
 summaryImage: "tenerife.jpg"
-summary: "Seeing Gran Canaria from El Hierro is possible, yet not frequent."
-tags: ["Tenerife", "Gran Canaria"]
+summary: "          "
+tags: ["La Gomera", "Tenerife"]
 ---
 
 
-distance: "240 km"
-summaryImage: "images/grancanaria.png" 
-
+Distance between summits: 240 km.    
+Shortest distance: ... km (between ... and ...).

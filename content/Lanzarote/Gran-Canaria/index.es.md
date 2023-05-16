@@ -11,5 +11,6 @@ tags: ["El Hierro", "Gran Canaria"]
 
 
 
-distance: "240 km"
+Distance between summits: 240 km.    
+Shortest distance: ... km (between ... and ...).
 

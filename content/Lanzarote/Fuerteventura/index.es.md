@@ -1,5 +1,5 @@
 ---
-title: "Gran Canaria"
+title: "Fuerteventura"
 date: 2023-05-01T22:30:00+01:00
 draft: false
 hideLastModified: true

@@ -5,11 +5,9 @@ draft: false
 hideLastModified: true
 keepImageRatio: true
 summaryImage: "lagomera.jpg"
-summary: "This summary \
-is \
-multiline"
-tags: ["La Gomera", ""]
+summary: "     "
+tags: ["La Gomera", "La Palma"]
 ---
 
-okokokok
-okokokok
+Distance between summits: 240 km.    
+Shortest distance: ... km (between ... and ...).

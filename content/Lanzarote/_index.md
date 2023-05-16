@@ -1,5 +1,6 @@
 ---
 title: "Lanzarote"
-date: 2019-06-04T21:55:06+01:00
+subtitle: "Like its neighbour Fuerteventura, Lanzarote also makes it possible to see Gran Canaria and Tenerife."
+date: 2023-05-07T21:55:06+01:00
 draft: false
 ---
