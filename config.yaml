@@ -90,7 +90,7 @@ params:
   pagNotFound:
     # option to specify the main picture of the sidebar
     # the starting folder is configure in "assetDir" of this file
-    image: "/images/avataaars_404.png"
+    image: "canarias_satellite404.jpg"
     # option to specify the title of the 404 page
     title: 404 Page Not Found :(
     # option to specify the subtitle of the 404 page
@@ -110,7 +110,7 @@ params:
     # option to specify the subtitle in the homepage
     subtitle: Discover which islands can be seen from every island, when the atmospheric conditions allow it.
     # option to specify image in the homepage
-    image: "avataaars.png" # worker.svg 
+    image: "canarias_satellite.jpg" # worker.svg 
     # option to specify the width of the image in the homepage
     imageWidth: 500px
 
@@ -171,7 +171,7 @@ languages:
       homepage:
         title: Visibilidad en las Islas Canarias
         subtitle: Discubre que islas se pueden ver desde cada isla, cuando las condiciones atmosféricas lo permiten.
-        image: "avataaars.png" # worker.svg 
+        image: "canarias_satellite.jpg" # worker.svg 
         imageWidth: 500px
       
       # Some sub-parameters of the "footer" parameter
