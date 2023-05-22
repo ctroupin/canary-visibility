@@ -4,9 +4,8 @@ date: 2023-05-01T22:30:00+01:00
 draft: false
 hideLastModified: true
 keepImageRatio: true
-summaryImage: "grancanaria_tenerife.jpg"
-summary: "Seeing Gran Canaria from El Hierro is possible, yet not frequent."
+summaryImage: "grancanaria_tenerife4.jpg"
+summary: "Gran Canaria from Tenerife."
 tags: ["Tenerife", "Gran Canaria"]
 ---
 
-Shortest distance: ... km (between ... and ...).
