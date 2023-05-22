@@ -14,7 +14,7 @@ Distance between summit: "240 km"
 Shortest distance: km (between ... and ...).
 
 This one is a special case, as it is used by some people to predict the weather:
-> if Fuerteventura is visible, it will surely rain.
+> If Fuerteventura is visible, it will surely rain.
 
 However one can see in many occasions that having Fuerteventura at the horizon does not imply that it will rain.  
 In fact it is even possible to see Fuerteventura during desert dust (_calima_) events.

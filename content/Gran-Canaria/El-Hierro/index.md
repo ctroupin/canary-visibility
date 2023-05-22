@@ -10,9 +10,7 @@ tags: ["El Hierro", "Gran Canaria"]
 ---
 
 
-Distance between summits: 240 km.    
-Shortest distance: ... km (between ... and ...).
-
+ 
 | ![El Hierro panorama](grancanaria_elhierro_pano.png) | 
 |:--:| 
 | El Hierro from Gran Canaria, simulation from https://www.peakfinder.org |

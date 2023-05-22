@@ -11,9 +11,7 @@ multiline"
 tags: ["La Gomera", "Gran Canaria"]
 ---
 
-Distance between summits: 240 km.    
-Shortest distance: ... km (between ... and ...).
-
+ 
 Seen from Gran Canaria center, La Gomera appears as partialy hidden behind the south of Tenerife, sometimes making it difficult they are in fact two different islands.
 
 From the southwestern coast, the separation is clearer as La Gomera appears separated from Tenerife.

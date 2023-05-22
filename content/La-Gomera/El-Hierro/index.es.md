@@ -10,6 +10,6 @@ tags: ["El Hierro", "La Gomera"]
 ---
 
 
-distance: "240 km"
+ 
 summaryImage: "images/grancanaria.png" 
 

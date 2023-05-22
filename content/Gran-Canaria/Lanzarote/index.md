@@ -9,13 +9,9 @@ summary: "Seeing Gran Canaria from El Hierro is possible, yet not frequent."
 tags: ["Gran Canaria", "Lanzarote"]
 ---
 
-Distance between summits: 240 km.    
-Shortest distance: ... km (between ... and ...).
-
-| ![Lanzarote panorama](grancanaria_lanzarote_pano.png) | 
+| ![Lanzarote from Gran Canaria](grancanaria_lanzarote.jpg) |
 |:--:| 
-| Lanzarote from Gran Canaria, simulation from https://www.udeuschle.de |
-
+| Lanzarote at sunrise, from Valleseco. | 
 
 ## Lanzarote or Fuerteventura?
 
@@ -24,9 +20,10 @@ Yet most of the time, it is the northern or the cental part of Fuerteventura tha
 This island takes a wide portion of the horizon due to its length (more than 100 km).
 
 
-| ![Lanzarote from Gran Canaria](grancanaria_lanzarote.jpg) |
+| ![Lanzarote panorama](grancanaria_lanzarote_pano.png) | 
 |:--:| 
-| Lanzarote at sunrise, from Valleseco. | 
+| Lanzarote from Gran Canaria, simulation from https://www.udeuschle.de |
+
 
 ## What can be seen?
 

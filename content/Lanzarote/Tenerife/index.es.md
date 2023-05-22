@@ -10,6 +10,6 @@ tags: ["Tenerife", "Gran Canaria"]
 ---
 
 
-distance: "240 km"
+ 
 summaryImage: "images/grancanaria.png" 
 
