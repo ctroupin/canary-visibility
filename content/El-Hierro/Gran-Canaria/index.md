@@ -5,13 +5,10 @@ draft: false
 hideLastModified: false
 keepImageRatio: true
 summaryImage: "grancanaria.jpg"
-summary: "Seeing Gran Canaria from El Hierro is possible, yet not frequent."
+summary: "Gran Canaria from El Hierro."
 tags: ["El Hierro", "Gran Canaria"]
 ---
 
-
-Distance between summits: 240 km    
-Shortest distance: 200 km (between ... and ...)
 
 It is not easy to find pictures of Gran Canaria taken from El Hierro. 
 In addition to the relatively long distance separating the two islands, one also has to consider that there are fewer people going on the summit of El Hierro to take pictures than people going to the summit of Gran Canaria.

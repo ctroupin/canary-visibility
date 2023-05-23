@@ -10,5 +10,5 @@ tags: ["Tenerife", "Lanzarote"]
 ---
 
 
-distance: "240 km"
+ 
 

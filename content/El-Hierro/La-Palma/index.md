@@ -5,11 +5,6 @@ draft: false
 hideLastModified: true
 keepImageRatio: true
 summaryImage: "lapalma.jpg"
-summary: "This summary \
-is \
-multiline"
+summary: "La Palma from El Hierro."
 tags: ["La Palma", "El Hierro"]
 ---
-
-Distance between summits: 240 km.    
-Shortest distance: ... km (between ... and ...).

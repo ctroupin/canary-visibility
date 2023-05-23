@@ -10,5 +10,5 @@ tags: ["Fuerteventura", "Gran Canaria"]
 ---
 
 
-distance: "240 km"
+ 
 

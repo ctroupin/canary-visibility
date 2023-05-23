@@ -11,5 +11,5 @@ tags: ["El Hierro", "Gran Canaria"]
 
 
 
-distance: "240 km"
+ 
 

@@ -9,6 +9,4 @@ summary: "Seeing Gran Canaria from El Hierro is possible, yet not frequent."
 tags: ["Tenerife", "Lanzarote"]
 ---
 
-Distance between summits: 240 km.    
-Shortest distance: ... km (between ... and ...).
-
+ 

@@ -10,5 +10,5 @@ tags: ["Fuerteventura", "Lanzarote"]
 ---
 
 
-distance: "240 km"
+ 
 

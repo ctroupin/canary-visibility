@@ -5,11 +5,8 @@ draft: false
 hideLastModified: false
 keepImageRatio: true
 summaryImage: "grancanaria.jpg"
-summary: "Ver Gran Canaria desde El Hierro es possible pero no es frecuente."
+summary: "Gran Canaria from El Hierro."
 tags: ["El Hierro", "Gran Canaria"]
 ---
 
-
-
-distance: "240 km"
 

@@ -9,5 +9,4 @@ summary: "     "
 tags: ["La Palma", "Tenerife"]
 ---
 
-Distance between summits: 240 km.    
 Shortest distance: ... km (between ... and ...).

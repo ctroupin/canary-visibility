@@ -10,5 +10,5 @@ tags: ["Gran Canaria", "Lanzarote"]
 ---
 
 
-distance: "240 km"
+ 
 

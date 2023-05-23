@@ -10,5 +10,5 @@ tags: ["El Hierro", "La Palma"]
 ---
 
 
-distance: "240 km"
+ 
 
