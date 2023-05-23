@@ -15,8 +15,3 @@ In addition to the relatively long distance separating the two islands, one also
 
 ## May 2023
 
-@charlestroupin posted this picture of Gran Canaria that he took from ...
-According to him, he was planning 
-
-
-{{< fa bath >}}

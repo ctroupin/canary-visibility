@@ -9,7 +9,7 @@ summary: "Tenerife from Fuerteventura."
 tags: ["Tenerife", "Fuerteventura"]
 ---
 
-fuerteventura_tenerife_pano.png
+![](fuerteventura_tenerife_pano.png)
 
-https://twitter.com/DaniTSpotter/status/1655263439671947264/photo/1
+{{< tweet user="DaniTSpotter" id="1655263439671947264" >}}
 
