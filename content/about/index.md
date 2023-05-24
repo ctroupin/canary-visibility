@@ -60,5 +60,4 @@ https://twitter.com/albercastellano/status/807917732163448833
 GC-FTV
 https://twitter.com/albercastellano/status/817477546514255872
 
-FTV-GC
-https://twitter.com/jreyeshdez/status/817483424655114241
+

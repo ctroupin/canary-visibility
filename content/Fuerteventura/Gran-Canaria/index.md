@@ -5,8 +5,19 @@ draft: false
 hideLastModified: true
 keepImageRatio: true
 summaryImage: "grancanaria.jpg"
-summary: "Seeing Gran Canaria                              from El Hierro is possible,                         yet not frequent."
+summary: "Visibility: moderate"
 tags: ["Fuerteventura", "Gran Canaria"]
 ---
 
 
+
+| ![Gran Canaria from Fuerteventura](fuerteventura_grancanaria_pano.png) |
+|:--:| 
+| _Simulated view from Pico de la Zarza with https://www.peakfinder.org._ |
+
+
+## Photographers
+
+### 
+
+{{< tweet user="DaniTSpotter" id="1655263439671947264" >}}

@@ -5,8 +5,11 @@ draft: false
 hideLastModified: true
 keepImageRatio: true
 summaryImage: "lanzarote.jpg"
-summary: "Lanzarote from Fuerteventura."
+summary: "Visibility: frequent"
 tags: ["Fuerteventura", "Lanzarote"]
 ---
+
+Fuerteventura and Lanzarote are the closest islands, with 11 km separating them in the Bocaina Strait (if we don't consider Lobos island, which belongs to Fuerteventura). Seeing one from the other is then very frequent and it is the opposite situation which turns out to be the rare.
+
 
 

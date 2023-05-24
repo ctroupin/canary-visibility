@@ -38,6 +38,10 @@ Check out his [Instagram](https://www.instagram.com/gustavomedinaphoto) or his p
 Here he captured the Teide in January 2022:
 {{< tweet user="7IslasCanarias" id="1477581322105278473" >}}
 
+### rafaelsanexp
+
+{{< tweet user="rafaelsanexp" id="1653349593671663616" >}}
+
 ## In the news
 
 Local newpapers sometimes write about this rare events:
