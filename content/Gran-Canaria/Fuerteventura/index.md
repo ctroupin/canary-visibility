@@ -5,13 +5,10 @@ draft: false
 hideLastModified: true
 keepImageRatio: true
 summaryImage: "grancanaria_fuerteventura.jpg"
-summary: "Seeing Gran Canaria from El Hierro is possible, yet not frequent."
+summary: "OK"
 tags: ["Fuerteventura", "Gran Canaria"]
 ---
 
-
-Distance between summit: "240 km"    
-Shortest distance: km (between ... and ...).
 
 This one is a special case, as it is used by some people to predict the weather:
 > If Fuerteventura is visible, it will surely rain.

@@ -5,9 +5,8 @@ draft: false
 hideLastModified: true
 keepImageRatio: true
 summaryImage: "grancanaria.jpg"
-summary: "Seeing Gran Canaria from El Hierro is possible, yet not frequent."
+summary: "Seeing Gran Canaria                              from El Hierro is possible,                         yet not frequent."
 tags: ["Fuerteventura", "Gran Canaria"]
 ---
 
 
- 

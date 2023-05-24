@@ -5,7 +5,10 @@ draft: false
 hideLastModified: true
 keepImageRatio: true
 summaryImage: "grancanaria_tenerife4.jpg"
-summary: "Gran Canaria from Tenerife."
+summary: "1st line\         
+2nd line\         
+3rd line\       
+"
 tags: ["Tenerife", "Gran Canaria"]
 ---
 

@@ -35,11 +35,6 @@ The case of the Salvage Islands (Portugal) is different, as it is theoretically 
 
 ## Twitter links to insert
 
-LZ-TNF
-https://twitter.com/Xuancor/status/1531041956658397185
-https://twitter.com/Xuancor/status/1653332321993478144
-https://twitter.com/Xuancor/status/1531731141362913280
-https://twitter.com/CharlesTroupin/status/1531729209508384770 (Gustavo Medina: https://www.flickr.com/photos/121856779@N03/, https://www.instagram.com/gustavomedinaphoto)
 
 
 GC-EH
