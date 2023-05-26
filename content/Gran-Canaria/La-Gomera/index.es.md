@@ -9,27 +9,26 @@ summary: "Visibility: intermediate"
 tags: ["La Gomera", "Gran Canaria"]
 ---
 
-Vista desde el centro de Gran Canaria center, La Gomera aparece parcialmente escondida detrás del sur de Tenerife, a veces making it difficult they are in fact two different islands.
- 
-| ![Simulated panorama from Pico de las Nieves](grancanaria_lagomera_pano.png) |
+Vista desde el centro de Gran Canaria center, La Gomera aparece parcialmente tapada por el sur de Tenerife, a veces haciendo dificil ver que son dos islas distintas.
+
+| ![Panorama simulado desde el Pico de las Nieves](grancanaria_lagomera_pano.png) |
 | :--: |
-| Simulated panorama from Pico de las Nieves with https://www.peakfinder.org. |
+| Panorama simulado desde el Pico de las Nieves with https://www.peakfinder.org. |
 
 ![La Gomera from Gran Canaria](grancanaria_lagomera2.jpg)
 
 ![La Gomera from Gran Canaria](grancanaria_lagomera3.jpg)
 
 
-From the southwestern coast, the separation is clearer as La Gomera appears almost separated from Tenerife.    
-Pictures from that zone are less frequent.
+Desde el suroest, la separación entre las islas es más clara, aunque las fotos de esta zona son menos frecuentes.
 
-| ![Simulated panorama from Puerto Mogán](grancanaria_lagomera_costa.png) |
+| ![Panorama simulado desde Puerto Mogán](grancanaria_lagomera_costa.png) |
 | :--: |
-| Simulated panorama from the southwest with https://www.peakfinder.org. |
+| Panorama simulado desde el suroest con https://www.peakfinder.org. |
 
 {{< tweet user="MeteoSW" id="1652400012007964677" >}}
 
-## Photographers
+## Fotografos
 
 ### Eduardo de la Cruz
 

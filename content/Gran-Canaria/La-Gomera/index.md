@@ -9,7 +9,7 @@ summary: "Visibility: intermediate"
 tags: ["La Gomera", "Gran Canaria"]
 ---
 
-Seen from Gran Canaria center, La Gomera appears as partialy hidden behind the south of Tenerife, sometimes making it difficult they are in fact two different islands.
+Seen from Gran Canaria center, La Gomera appears as partially hidden behind the south of Tenerife, sometimes making it difficult to see they are two different islands.
  
 | ![Simulated panorama from Pico de las Nieves](grancanaria_lagomera_pano.png) |
 | :--: |
@@ -20,8 +20,7 @@ Seen from Gran Canaria center, La Gomera appears as partialy hidden behind the s
 ![La Gomera from Gran Canaria](grancanaria_lagomera3.jpg)
 
 
-From the southwestern coast, the separation is clearer as La Gomera appears almost separated from Tenerife.    
-Pictures from that zone are less frequent.
+From the southwestern coast, the separation is clearer even if pictures from that zone are less frequent.
 
 | ![Simulated panorama from Puerto Mogán](grancanaria_lagomera_costa.png) |
 | :--: |
