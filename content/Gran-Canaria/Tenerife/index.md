@@ -16,7 +16,7 @@ The silhouette of Tenerife is part of the landscape of Gran Canaria. There are n
 | :--: |
 | Simulated panorama from Pico de las Nieves with https://www.peakfinder.org. |
 
-Sunsets with Tenerife and the Teide in the background are among the most spectacular, as shown by the numerous people who drive up to the island summit every evening to watch the spectacle.
+Sunsets with Tenerife and the Teide in the background are among the most amazisng, as shown by the numerous people who drive up to the island summit every evening to watch the spectacle.
 
 ![Tenerife from Gran Canaria at sunset](grancanaria_tenerife5.jpg)
 
@@ -43,4 +43,8 @@ Capturing the whole island from north to south is also possible but might requir
 Job often shows us great pictures of the Teide with Montaña de Gáldar in the foreground:
 
 {{< tweet user="marrerojob" id="1652256403896127488" >}}
+
+### MeteoSW
+
+{{< tweet user="MeteoSW" id="1652231338806722566" >}}
 
