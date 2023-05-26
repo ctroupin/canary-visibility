@@ -5,11 +5,37 @@ draft: false
 hideLastModified: true
 keepImageRatio: true
 summaryImage: "grancanaria_lagomera.jpg"
-summary: "This summary \
-is \
-multiline"
-tags: ["La Gomera", ""]
+summary: "Visibility: intermediate"
+tags: ["La Gomera", "Gran Canaria"]
 ---
 
-okokokok
-okokokok
+Vista desde el centro de Gran Canaria center, La Gomera aparece parcialmente escondida detrás del sur de Tenerife, a veces making it difficult they are in fact two different islands.
+ 
+| ![Simulated panorama from Pico de las Nieves](grancanaria_lagomera_pano.png) |
+| :--: |
+| Simulated panorama from Pico de las Nieves with https://www.peakfinder.org. |
+
+![La Gomera from Gran Canaria](grancanaria_lagomera2.jpg)
+
+![La Gomera from Gran Canaria](grancanaria_lagomera3.jpg)
+
+
+From the southwestern coast, the separation is clearer as La Gomera appears almost separated from Tenerife.    
+Pictures from that zone are less frequent.
+
+| ![Simulated panorama from Puerto Mogán](grancanaria_lagomera_costa.png) |
+| :--: |
+| Simulated panorama from the southwest with https://www.peakfinder.org. |
+
+{{< tweet user="MeteoSW" id="1652400012007964677" >}}
+
+## Photographers
+
+### Eduardo de la Cruz
+
+{{< tweet user="Eduadelacruz" id="1480479148271443972" >}}
+
+### Elvira Olmo Guillen
+
+{{< tweet user="GuillenOlmo" id="1277388021097259008" >}}
+
