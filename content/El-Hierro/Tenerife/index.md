@@ -5,9 +5,9 @@ draft: false
 hideLastModified: true
 keepImageRatio: true
 summaryImage: "tenerife.jpg"
-summary: "Tenerife from El Hierro."
+summary: "Visibility: intermediate"
 tags: ["Tenerife", "El Hierro"]
 ---
 
-
+Distance between summits: 165 km
  

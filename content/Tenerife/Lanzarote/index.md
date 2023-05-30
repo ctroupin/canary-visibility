@@ -9,4 +9,4 @@ summary: "Visibility: rare"
 tags: ["Tenerife", "Lanzarote"]
 ---
 
- 
+Finding pictures of Lanzarote from Tenerife is not an easy task, despite the numerous visitors coming to the Teide National Park.

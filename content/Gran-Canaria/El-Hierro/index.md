@@ -5,7 +5,7 @@ draft: false
 hideLastModified: true
 keepImageRatio: true
 summaryImage: "grancanaria_elhierro.jpg"
-summary: "Seeing Gran Canaria from El Hierro is possible, yet not frequent."
+summary: "Visibility: rare"
 tags: ["El Hierro", "Gran Canaria"]
 ---
 
@@ -20,8 +20,6 @@ In order to tell the difference with clouds, it is useful to know the shape of t
 
 
 ![El Hierro seen from the Ventana del Nublo](grancanaria_elhierro5.jpg)
-
-![El Hierro seen from Gran Canaria](grancanaria_elhierro.jpg)
 
 ![El Hierro seen from Gran Canaria](grancanaria_elhierro3.jpg)
 

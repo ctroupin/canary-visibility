@@ -5,7 +5,7 @@ draft: false
 hideLastModified: false
 keepImageRatio: true
 summaryImage: "elhierro_grancanaria_zoom.jpg"
-summary: "Visibility: unfrequent."
+summary: "Visibility: rare"
 tags: ["El Hierro", "Gran Canaria"]
 ---
 

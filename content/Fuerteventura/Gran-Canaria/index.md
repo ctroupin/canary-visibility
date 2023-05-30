@@ -22,7 +22,6 @@ tags: ["Fuerteventura", "Gran Canaria"]
 
 {{< tweet user="DaniTSpotter" id="1655263439671947264" >}}
 
-
 ## Pedro López Batista
 
 You can also find some great pictures in Pedro's Flickr account:

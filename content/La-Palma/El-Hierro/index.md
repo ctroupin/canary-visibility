@@ -5,9 +5,8 @@ draft: false
 hideLastModified: true
 keepImageRatio: true
 summaryImage: "elhierro.jpg"
-summary: "Seeing Gran Canaria from El Hierro is possible, yet not frequent."
+summary: "Visibility: frequent"
 tags: ["El Hierro", "La Palma"]
 ---
 
 
-Shortest distance: ... km (between ... and ...).

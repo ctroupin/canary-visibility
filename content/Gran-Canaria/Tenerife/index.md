@@ -5,7 +5,7 @@ draft: false
 hideLastModified: true
 keepImageRatio: true
 summaryImage: "grancanaria_tenerife4.jpg"
-summary: ""
+summary: "Visibility: frequent"
 tags: ["Tenerife", "Gran Canaria"]
 ---
 

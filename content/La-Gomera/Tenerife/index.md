@@ -5,9 +5,8 @@ draft: false
 hideLastModified: true
 keepImageRatio: true
 summaryImage: "tenerife.jpg"
-summary: "          "
+summary: "Visibility: frequent"
 tags: ["La Gomera", "Tenerife"]
 ---
 
 
-Shortest distance: ... km (between ... and ...).

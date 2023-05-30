@@ -5,13 +5,14 @@ draft: false
 hideLastModified: true
 keepImageRatio: true
 summaryImage: "grancanaria_fuerteventura.jpg"
-summary: "OK"
+summary: "Visibility: intermediate"
 tags: ["Fuerteventura", "Gran Canaria"]
 ---
 
 
-This one is a special case, as it is used by some people to predict the weather:
-> If Fuerteventura is visible, it will surely rain.
+Seeing Fuerteventura from Gran Canaria is often related to weather predictions., everyboday had already heard the saying:
+
+> If Fuerteventura can be seen, rain will come for sure.
 
 However one can see in many occasions that having Fuerteventura at the horizon does not imply that it will rain.  
 In fact it is even possible to see Fuerteventura during desert dust (_calima_) events.
@@ -19,14 +20,18 @@ In fact it is even possible to see Fuerteventura during desert dust (_calima_) e
 Due to its low summit (807 m), the island is often hidden by the typical stratocumulus layer driven by the Trade Winds. 
 
 
-## Fuerteventura
+## Photographers
 
 In days of excellent visibility the pictures are truly amazing.
 
+### Alberto Castellano
 {{< tweet user="albercastellano" id="817477546514255872" >}}
 
+### Beny Aguiar
 {{< tweet user="BenyAguiar" id="1244355117471670272" >}}
 
+### Sara
 {{< tweet user="sarasvnt" id="1531010236982624257" >}}
 
+### David Rodríguez
 {{< tweet user="drodriguezfoto" id="1485650860264804359" >}}

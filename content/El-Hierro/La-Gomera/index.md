@@ -5,12 +5,9 @@ draft: false
 hideLastModified: true
 keepImageRatio: true
 summaryImage: "lagomera.jpg"
-summary: "This summary \
-is \
-multiline"
+summary: "Visibility: frequent"
 tags: ["La Gomera", "El Hierro"]
 ---
 
-Distance between summit: ... km    
-Shortest distance: km (between ... and ...)
+Distance between summits: 96 km    
 

@@ -5,8 +5,12 @@ draft: false
 hideLastModified: true
 keepImageRatio: true
 summaryImage: "lapalma.jpg"
-summary: "         "
+summary: "Visibility: frequent"
 tags: ["La Gomera", "La Palma"]
 ---
+
+| ![Panorama](lagomera_lapalma_pano.png) |
+| :--: |
+| Simulated panorama from La Gomera with https://www.peakfinder.org. |
 
  
