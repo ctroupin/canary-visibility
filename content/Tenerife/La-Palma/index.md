@@ -5,8 +5,7 @@ draft: false
 hideLastModified: true
 keepImageRatio: true
 summaryImage: "lapalma.jpg"
-summary: "     "
+summary: "Visibility: intermediate"
 tags: ["La Palma", "Tenerife"]
 ---
 
-Shortest distance: ... km (between ... and ...).

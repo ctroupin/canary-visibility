@@ -5,7 +5,7 @@ draft: false
 hideLastModified: true
 keepImageRatio: true
 summaryImage: "lanzarote.jpg"
-summary: "Seeing Gran Canaria from El Hierro is possible, yet not frequent."
+summary: "Visibility: rare"
 tags: ["Tenerife", "Lanzarote"]
 ---
 

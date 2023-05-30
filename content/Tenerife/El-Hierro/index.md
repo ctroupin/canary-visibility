@@ -5,12 +5,9 @@ draft: false
 hideLastModified: true
 keepImageRatio: true
 summaryImage: "elhierro.jpg"
-summary: " "
+summary: "Visibility: intermediate"
 tags: ["Tenerife", "El Hierro"]
 ---
-
-
-Shortest distance: ... km (between ... and ...).
 
 
 {{< tweet user="FernandoMart32" id="1478323386715623427" >}}

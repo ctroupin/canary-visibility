@@ -5,7 +5,7 @@ draft: false
 hideLastModified: true
 keepImageRatio: true
 summaryImage: "tenerife_lagomera.jpg"
-summary: "     "
+summary: " Visibility: frequent"
 tags: ["La Gomera", "Tenerife"]
 ---
 

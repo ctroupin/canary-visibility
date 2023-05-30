@@ -4,16 +4,12 @@ date: 2023-05-01T22:30:00+01:00
 draft: false
 hideLastModified: true
 keepImageRatio: true
-summaryImage: "tenerife.jpg"
-summary: "Distance between summits: X km \      
-
-Minimal distance: X km            
-
-Visibility: unfrequent"
+summaryImage: "lanzarote_tenerife.jpg"
+summary: "Visibility: rare"
 tags: ["Tenerife", "Lanzarote"]
 ---
 
-A few times a year, the Teide is visible from Lanzarote. The pictures are rare but spectacular, as they require a lot of planning.
+Capture the Teide from Lanzarote is probably one of the most challenging pictures for those interested in distance photography, as it is only possible a few times a year.
 
 ![Teide from Lanzarote](lanzarote_tenerife_pano.png)
 

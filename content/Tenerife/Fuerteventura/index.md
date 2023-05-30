@@ -5,7 +5,7 @@ draft: false
 hideLastModified: true
 keepImageRatio: true
 summaryImage: "fuerteventura.jpg"
-summary: " "
+summary: "Visibility: rare "
 tags: ["Fuerteventura", "Tenerife"]
 ---
 

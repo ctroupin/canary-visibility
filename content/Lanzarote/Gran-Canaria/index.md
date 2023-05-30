@@ -4,8 +4,8 @@ date: 2023-05-01T22:30:00+01:00
 draft: false
 hideLastModified: true
 keepImageRatio: true
-summaryImage: "grancanaria.jpg"
-summary: "Seeing Gran Canaria from El Hierro is possible, yet not frequent."
+summaryImage: "lanzarote_grancanaria.jpg"
+summary: "Visibility: rare"
 tags: ["Lanzarote", "Gran Canaria"]
 ---
 
@@ -18,4 +18,6 @@ According to the panorama simulations, a large portion of Gran Canaria can be se
 ### 
  {{< tweet user="Xuancor" id="1531731141362913280" >}}
 
-### 
+### Gustavo Medina
+
+![Gran Canaria from Lanzarote](lanzarote_grancanaria.jpg)
