@@ -5,8 +5,9 @@ draft: false
 hideLastModified: true
 keepImageRatio: true
 summaryImage: "elhierro.jpg"
-summary: "Seeing Gran Canaria from El Hierro is possible, yet not frequent."
+summary: " "
 tags: ["El Hierro", "La Gomera"]
 ---
 
- 
+ {{< tweet user="concretera2000" id="1434470687482290182" >}}
+

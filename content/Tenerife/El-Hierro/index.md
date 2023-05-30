@@ -5,9 +5,12 @@ draft: false
 hideLastModified: true
 keepImageRatio: true
 summaryImage: "elhierro.jpg"
-summary: "Seeing Gran Canaria from El Hierro is possible, yet not frequent."
+summary: " "
 tags: ["Tenerife", "El Hierro"]
 ---
 
 
 Shortest distance: ... km (between ... and ...).
+
+
+{{< tweet user="FernandoMart32" id="1478323386715623427" >}}

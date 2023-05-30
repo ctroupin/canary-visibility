@@ -18,6 +18,12 @@ tags: ["Fuerteventura", "Gran Canaria"]
 
 ## Photographers
 
-### 
+### DaniTSpotter
 
 {{< tweet user="DaniTSpotter" id="1655263439671947264" >}}
+
+
+## Pedro López Batista
+
+You can also find some great pictures in Pedro's Flickr account:
+https://www.flickr.com/photos/10570319@N08/46115021082/

@@ -18,3 +18,15 @@ In fact it is even possible to see Fuerteventura during desert dust (_calima_) e
 
 Due to its low summit (807 m), the island is often hidden by the typical stratocumulus layer driven by the Trade Winds. 
 
+
+## Fuerteventura
+
+In days of excellent visibility the pictures are truly amazing.
+
+{{< tweet user="albercastellano" id="817477546514255872" >}}
+
+{{< tweet user="BenyAguiar" id="1244355117471670272" >}}
+
+{{< tweet user="sarasvnt" id="1531010236982624257" >}}
+
+{{< tweet user="drodriguezfoto" id="1485650860264804359" >}}

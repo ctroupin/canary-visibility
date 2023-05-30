@@ -13,3 +13,6 @@ tags: ["Tenerife", "Fuerteventura"]
 
 {{< tweet user="DaniTSpotter" id="1655263439671947264" >}}
 
+{{< tweet user="javift77" id="1477727836266020870" >}}
+
+{{< tweet user="CaptainMarcinRX" id="1078386932005122050" >}}

@@ -22,4 +22,15 @@ tags: ["El Hierro", "Gran Canaria"]
 ![El Hierro seen from Gran Canaria](grancanaria_elhierro3.jpg)
 
 
+## Photographers
+
+{{< tweet user="JuanAntRico" id="1654058097608884226" >}}
+{{< tweet user="mr_vivar_" id="1477939297147830275" >}}
+{{< tweet user="AdrianDiJi" id="1604870385862049793" >}}
+{{< tweet user="solinisc" id="1654503720053252098" >}}
+{{< tweet user="JoseManuelCaba" id="1623020960767934466" >}}
+{{< tweet user="CharlesTroupin" id="1479954034920411143" >}}
+{{< tweet user="JoseManuelCaba" id="1224302238916661248" >}}
+
+
 

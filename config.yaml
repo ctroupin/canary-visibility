@@ -108,7 +108,7 @@ params:
     # option to specify the title in the homepage
     title: Visibility in the Canary Islands
     # option to specify the subtitle in the homepage
-    subtitle: Discover which islands can be seen from every island, when the atmospheric conditions allow it.
+    subtitle: Have you ever wondered which islands can be seen from every island? Select one island in the top menu to discover which ones you can observe when the atmospheric conditions are good enough.
     # option to specify image in the homepage
     image: "canarias_satellite.jpg" # worker.svg 
     # option to specify the width of the image in the homepage
