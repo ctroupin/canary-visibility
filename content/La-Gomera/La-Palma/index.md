@@ -9,6 +9,10 @@ summary: "Visibility: frequent"
 tags: ["La Gomera", "La Palma"]
 ---
 
+- Shortest distance: 62.6 km
+- Distance between summits: 95.0 km
+
+
 | ![Panorama](lagomera_lapalma_pano.png) |
 | :--: |
 | Simulated panorama from La Gomera with https://www.peakfinder.org. |

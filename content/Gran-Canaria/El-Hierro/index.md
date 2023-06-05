@@ -9,6 +9,9 @@ summary: "Visibility: rare"
 tags: ["El Hierro", "Gran Canaria"]
 ---
 
+- Shortest distance: 228.1 km
+- Distance between summits: 244.1 km
+
 El Hierro is located at about 240 km from Gran Canaria, with an altitude similar to La Gomera.    
 When La Gomera is visible, then there is a chance El Hierro also is: you need to look for it to the left of La Gomera and cross your fingers.
 

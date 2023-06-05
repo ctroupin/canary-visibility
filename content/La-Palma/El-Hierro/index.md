@@ -9,4 +9,7 @@ summary: "Visibility: frequent"
 tags: ["El Hierro", "La Palma"]
 ---
 
+- Shortest distance: 64.5 km
+- Distance between summits: 115.0 km
+
 

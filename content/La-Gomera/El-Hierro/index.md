@@ -9,7 +9,10 @@ summary: "Visibility: frequent"
 tags: ["El Hierro", "La Gomera"]
 ---
 
-With the short distance between them (96 km), observing El Hierro from La Gomera is not too difficult.
+- Shortest distance: 66.7 km
+- Distance between summits: 88.6 km
+
+With the shortest distance between them below 70 km, observing El Hierro from La Gomera is not too difficult.
 
 | ![Panorama](lagomera_elhierro_pano.png) |
 | :--: |
@@ -24,3 +27,6 @@ Finding pictures was not so easy...
 
 ### Noreen Dalton
  {{< tweet user="nordaltsee" id="1484727492153942020" >}}
+
+### Alicia
+{{< tweet user="AliciaH35335691" id="1658533713548828682" >}}

@@ -9,8 +9,10 @@ summary: "Visibility: intermediate"
 tags: ["La Gomera", "Gran Canaria"]
 ---
 
-Gran Canaria is almost visible totally, except the northern part which is hidden by Tenerife.
+- Shortest distance: 141.2 km
+- Distance between summits: 165.4 km
 
+Gran Canaria is almost visible totally, except the northern part which is hidden by Tenerife.
 
 | ![Panorama](lagomera_grancanaria_pano.png) |
 | :--: |

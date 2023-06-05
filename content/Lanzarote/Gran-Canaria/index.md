@@ -9,6 +9,9 @@ summary: "Visibility: rare"
 tags: ["Lanzarote", "Gran Canaria"]
 ---
 
+- Shortest distance: 185.0 km
+- Distance between summits: 238.1 km
+
 According to the panorama simulations, a large portion of Gran Canaria can be seen from Lanzarote (in this case from _los Ajaches_, in the southern part of the island). Due to the more than 200 km separating the islands, excellent atmospheric conditions are required.
 
 ![Gran Canaria from Lanzarote](lanzarote_grancanaria_pano.png)

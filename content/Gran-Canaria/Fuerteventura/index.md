@@ -9,6 +9,8 @@ summary: "Visibility: intermediate"
 tags: ["Fuerteventura", "Gran Canaria"]
 ---
 
+- Shortest distance: 184.9 km
+- Distance between summits: 120.3 km
 
 Seeing Fuerteventura from Gran Canaria is often related to weather predictions., everyboday had already heard the saying:
 
@@ -20,7 +22,7 @@ In fact it is even possible to see Fuerteventura during desert dust (_calima_) e
 Due to its low summit (807 m), the island is often hidden by the typical stratocumulus layer driven by the Trade Winds. 
 
 
-## Photographers
+## Photographerss
 
 In days of excellent visibility the pictures are truly amazing.
 

@@ -9,6 +9,8 @@ summary: "Visibility: frequent"
 tags: ["Tenerife", "Gran Canaria"]
 ---
 
+- Shortest distance: 60.6 km
+- Distance between summits: 110.6 km
 
 The silhouette of Tenerife is part of the landscape of Gran Canaria. There are numerous places from which to observe the island, not only from the island center (Pico de las Nieves, Cruz de Tejeda, ...) but also from the coastline (Puerto Mogán, Las Canteras...). 
 

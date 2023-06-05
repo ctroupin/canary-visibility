@@ -9,6 +9,9 @@ summary: "Visibility: rare"
 tags: ["Gran Canaria", "Lanzarote"]
 ---
 
+- Shortest distance: 185.0 km
+- Distance between summits: 238.1 km
+
 | ![Lanzarote from Gran Canaria](grancanaria_lanzarote.jpg) |
 |:--:| 
 | Lanzarote at sunrise, from Valleseco. | 

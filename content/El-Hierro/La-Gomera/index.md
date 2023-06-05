@@ -9,5 +9,5 @@ summary: "Visibility: frequent"
 tags: ["La Gomera", "El Hierro"]
 ---
 
-Distance between summits: 96 km    
-
+- Shortest distance: 66.7 km  
+- Distance between summits: 88.6 km

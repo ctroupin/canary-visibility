@@ -9,3 +9,5 @@ summary: "Visibility: intermediate"
 tags: ["La Palma", "Tenerife"]
 ---
 
+- Shortest distance: 95.8 km
+- Distance between summits: 132.7 km

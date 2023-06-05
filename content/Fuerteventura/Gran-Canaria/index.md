@@ -9,7 +9,8 @@ summary: "Visibility: moderate"
 tags: ["Fuerteventura", "Gran Canaria"]
 ---
 
-
+- Shortest distance: 95.5 km
+- Distance between summits: 120.3 km
 
 | ![Gran Canaria from Fuerteventura](fuerteventura_grancanaria_pano.png) |
 |:--:| 

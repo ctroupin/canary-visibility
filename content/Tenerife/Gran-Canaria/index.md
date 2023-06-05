@@ -9,4 +9,8 @@ summary: "Visibility: frequent"
 tags: ["Tenerife", "Gran Canaria"]
 ---
 
- 
+- Shortest distance: 60.6 km
+- Distance between summits: 110.6 km
+
+{{< tweet user="Borjarancel" id="1477237128597749764" >}}
+

@@ -9,6 +9,25 @@ showInMenu: true
 
 ## How far can we see?
 
+The visibility depends on several parameters, the most relevant is the altitude of the observer: the highest altitude, the farthest distance one can observe. With a bit of geometry and assuming Earth is a sphere of radius `R` equal to 6371 km, we can derive the formula to estimate the distance `D` to the horizon, knowing the altitude `H` of the observer:
+
+> D ≃ √(2 h R)
+
+for example:
+- at 3 meters above sea level: the horizon is located at 6 km;
+- from Pico de las Nieves (1949 m): 158 km
+- from Pico del Teide (3715 m): 218 km.
+
+This does not mean that one cannot observe anything behind that distance: an object at altiude `h` can be seen, provided that the relation
+
+> D < 3.57 (√h + √H)
+
+is satisfied. For example, the distance between el Teide and Pico de las Nieves is about 110 km.
+
+> 110 < 3.57 * (√(1.949) + √(3715.)) = 220
+
+The condition is satisfied (110 < 220).
+
 ## Why can't we see so well?
 
 They are several reasons why one cannot see objects (islands) located at shorter distances.

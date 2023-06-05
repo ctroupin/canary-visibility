@@ -9,6 +9,9 @@ summary: "Visibility: rare"
 tags: ["Tenerife", "Fuerteventura"]
 ---
 
+- Shortest distance: 186.4 km
+- Distance between summits: 224.9 km
+
 From the Fuerteventura summit (Pico de la Zarza, 807 m), a large part of Tenerife can be observed, at least in theory, since Pico de la Zarza is often covered by clouds.
 
 | ![](fuerteventura_tenerife_pano.png) | 

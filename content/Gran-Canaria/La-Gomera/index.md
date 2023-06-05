@@ -9,6 +9,9 @@ summary: "Visibility: intermediate"
 tags: ["La Gomera", "Gran Canaria"]
 ---
 
+- Shortest distance: 141.2 km
+- Distance between summits: 165.4 km
+
 Seen from Gran Canaria center, La Gomera appears as partially hidden behind the south of Tenerife, sometimes making it difficult to see they are two different islands.
  
 | ![Simulated panorama from Pico de las Nieves](grancanaria_lagomera_pano.png) |

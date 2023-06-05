@@ -9,6 +9,9 @@ summary: "Visibility: rare"
 tags: ["Tenerife", "Lanzarote"]
 ---
 
+- Shortest distance: 251.3 km
+- Distance between summits: 318.7 km
+- 
 Capture the Teide from Lanzarote is probably one of the most challenging pictures for those interested in distance photography, as it is only possible a few times a year.
 
 ![Teide from Lanzarote](lanzarote_tenerife_pano.png)
