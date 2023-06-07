@@ -5,11 +5,9 @@ draft: false
 hideLastModified: true
 keepImageRatio: true
 summaryImage: "lapalma.jpg"
-summary: "This summary \
-is \
-multiline"
+summary: "Visibilidad: frecuente"
 tags: ["La Palma", "El Hierro"]
 ---
 
-okokokok
-okokokok
+![Distancias entre La Palma y El Hierro](mindist_elhierro_lapalma.png)
+

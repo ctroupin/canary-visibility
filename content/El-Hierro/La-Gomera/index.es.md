@@ -5,11 +5,9 @@ draft: false
 hideLastModified: true
 keepImageRatio: true
 summaryImage: "lagomera.jpg"
-summary: "This summary \
-is \
-multiline"
+summary: "Visibidad: frecuente"
 tags: ["La Gomera", "El Hierro"]
 ---
 
-okokokok
-okokokok
+![Distancias entre La Gomera y El Hierro](mindist_elhierro_lagomera.png)
+

@@ -9,10 +9,18 @@ summary: "Visibility: frequent"
 tags: ["Fuerteventura", "Lanzarote"]
 ---
 
-- Shortest distance: 10.7 km
-- Distance between summits: 139.4 km
+![Distances between Fuerteventura and Lanzarote](mindist_fuerteventura_lanzarote.png)
 
 Fuerteventura and Lanzarote are the closest islands, with 11 km separating them in the Bocaina Strait (if we don't consider Lobos island, which belongs to Fuerteventura). Seeing one from the other is then very frequent and it is the opposite situation which turns out to be the rare.
+
+## Panorama
+
+Lanzarote is also visible from the southern part of Fuerteventura. According to the panorama simulation, the farthest visible point from the Pico de la Zarza is the Caldera Blanca, located in the Timanfaya National Park, 120 km away.
+
+| ![Lanzarote from Fuerteventura](fuerteventura_lanzarote_pano.png) |
+|:--:| 
+| _Simulated view from Pico de la Zarza (807 m) with https://www.udeuschle.de._ |
+
 
 
 

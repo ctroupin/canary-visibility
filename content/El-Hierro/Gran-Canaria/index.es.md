@@ -9,4 +9,6 @@ summary: "Gran Canaria from El Hierro."
 tags: ["El Hierro", "Gran Canaria"]
 ---
 
+![Distancias entre Gran Canaria y El Hierro](mindist_elhierro_grancanaria.png)
+
 

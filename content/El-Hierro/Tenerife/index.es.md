@@ -9,7 +9,6 @@ summary: "Seeing Gran Canaria from El Hierro is possible, yet not frequent."
 tags: ["Tenerife", "Gran Canaria"]
 ---
 
+![Distancias entre Tenerife y El Hierro](mindist_elhierro_tenerife.png)
 
- 
-summaryImage: "images/grancanaria.png" 
 

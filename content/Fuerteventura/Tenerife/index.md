@@ -14,11 +14,13 @@ tags: ["Tenerife", "Fuerteventura"]
 
 From the Fuerteventura summit (Pico de la Zarza, 807 m), a large part of Tenerife can be observed, at least in theory, since Pico de la Zarza is often covered by clouds.
 
+## Panorama
+
 | ![](fuerteventura_tenerife_pano.png) | 
 | :--: |
 | Simulated panorama from Pico de La Zarza with https://www.peakfinder.org. |
 
-## Photograpgers
+## Photographers
 
 ### DaniTSpotter
 {{< tweet user="DaniTSpotter" id="1655263439671947264" >}}

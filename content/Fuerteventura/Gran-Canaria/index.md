@@ -9,19 +9,27 @@ summary: "Visibility: moderate"
 tags: ["Fuerteventura", "Gran Canaria"]
 ---
 
-- Shortest distance: 95.5 km
-- Distance between summits: 120.3 km
+![Distances between Fuerteventura and Gran Canaria](mindist_fuerteventura_grancanaria.png)
+
+## Panorama
 
 | ![Gran Canaria from Fuerteventura](fuerteventura_grancanaria_pano.png) |
 |:--:| 
-| _Simulated view from Pico de la Zarza with https://www.peakfinder.org._ |
+| _Simulated view from Pico de la Zarza (807 m) with https://www.peakfinder.org._ |
 
 
 ## Photographers
 
-### DaniTSpotter
+Given that most of the pictures that show Gran Canaria also show Tenerife, the list is the same as [Tenerife seen from Fuerteventura](../tenerife/)
 
+### DaniTSpotter
 {{< tweet user="DaniTSpotter" id="1655263439671947264" >}}
+
+### Javi F.
+{{< tweet user="javift77" id="1477727836266020870" >}}
+
+### CaptainMarcinRX
+{{< tweet user="CaptainMarcinRX" id="1078386932005122050" >}}
 
 ## Pedro López Batista
 
