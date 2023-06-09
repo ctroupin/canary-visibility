@@ -31,7 +31,10 @@ Given that most of the pictures that show Gran Canaria also show Tenerife, the l
 ### CaptainMarcinRX
 {{< tweet user="CaptainMarcinRX" id="1078386932005122050" >}}
 
-## Pedro López Batista
+### Pedro López Batista
 
 You can also find some great pictures in Pedro's Flickr account:
 https://www.flickr.com/photos/10570319@N08/46115021082/
+
+### Juances
+https://www.flickr.com/photos/juances/22681286536

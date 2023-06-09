@@ -30,3 +30,10 @@ From the Fuerteventura summit (Pico de la Zarza, 807 m), a large part of Tenerif
 
 ### CaptainMarcinRX
 {{< tweet user="CaptainMarcinRX" id="1078386932005122050" >}}
+
+### Nils
+https://www.flickr.com/photos/84973124@N07/15356587416/
+
+### Juances
+https://www.flickr.com/photos/juances/22681286536
+
