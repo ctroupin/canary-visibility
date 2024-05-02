@@ -150,7 +150,7 @@ params:
     #    link: username
     #    title: Telegram
     # option to specify the copyright in the footer
-    copyright: C. Troupin - 2023
+    copyright: C. Troupin - 2024
 
 ###################################################################
 ################## multilanguage support options ##################
@@ -196,5 +196,37 @@ languages:
         gitlab:
            link: ctroupin
            title: Gitlab
-        copyright: ctroupin - 2023
+        copyright: ctroupin - 2024
+  fr:
+    languageName:       French
+    weight:             3
+    params:
+      homepage:
+        title: Visibilité dans les Îles Canaries
+        subtitle: Découvre quelles îles peuvent être vue depuis chaque île, quand les conditions atmosphérique le permettent.
+        image: "canarias_satellite.jpg" # worker.svg 
+        imageWidth: 500px
       
+      # Some sub-parameters of the "footer" parameter
+      # can be omitted because the code allows for them to be 
+      # missed but they will treated as they do not exist,
+      # i.e., the parameters of the default language
+      # won't be inherited.
+      footer:
+        logo: "/images/refresh-square.svg"
+        #email: 
+        #  link: имя.фамилия@домен.com
+        #  title: Эл. адрес
+        twitter: 
+           link: charlestroupin
+           title: Twitter
+        # instagram: 
+        #   link: username
+        #   title: Instagram
+        github: 
+           link: ctroupin
+           title: Github
+        gitlab:
+           link: ctroupin
+           title: Gitlab
+        copyright: ctroupin - 2024
