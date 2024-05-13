@@ -141,9 +141,9 @@ params:
        title: Twitter
     # option to specify your instagram username in the footer; 
     # **uncomment** the below lines to show in footer
-    # instagram: 
-    #    link: username
-    #    title: Instagram
+    instagram: 
+      link: ctroupin
+      title: Instagram
     # option to specify your telegram username in the footer; 
     # **uncomment** the below lines to show in footer
     # telegram: 
@@ -187,9 +187,9 @@ languages:
         twitter: 
            link: charlestroupin
            title: Twitter
-        # instagram: 
-        #   link: username
-        #   title: Instagram
+        instagram: 
+           link: ctroupin
+           title: Instagram
         github: 
            link: ctroupin
            title: Github
@@ -220,9 +220,9 @@ languages:
         twitter: 
            link: charlestroupin
            title: Twitter
-        # instagram: 
-        #   link: username
-        #   title: Instagram
+        instagram: 
+           link: ctroupin
+           title: Instagram
         github: 
            link: ctroupin
            title: Github
