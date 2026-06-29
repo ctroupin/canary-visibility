@@ -13,4 +13,4 @@ tags: ["Tenerife", "El Hierro"]
 - Distance between summits: 150.0 km
   
 
-{{< tweet user="FernandoMart32" id="1478323386715623427" >}}
+{{< x user="FernandoMart32" id="1478323386715623427" >}}

@@ -38,4 +38,4 @@ This was the first time I saw Gran Canaria from El Hierro in a picture. Here we 
 | ©  Iván León Santiago • https://twitter.com/ivanlesa • https://www.instagram.com/ivanls | 
 
 Other pictures with a longer focal length are also provided by the same photographer 👏:
-{{< tweet user="ivanlesa" id="1685236666317901825" >}}
+{{< x user="ivanlesa" id="1685236666317901825" >}}

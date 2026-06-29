@@ -12,5 +12,5 @@ tags: ["La Gomera", "Tenerife"]
 - Shortest distance: 29.5 km
 - Distance between summits: 62.1 km
 
-{{< tweet user="AliciaH35335691" id="1665604322967658496" >}}
+{{< x user="AliciaH35335691" id="1665604322967658496" >}}
 

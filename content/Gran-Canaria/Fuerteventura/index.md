@@ -25,16 +25,16 @@ Due to the low altitude of its summit (807 m), the island is often hidden by the
 In days of excellent visibility the pictures are truly amazing.
 
 ### Iván León Santiago
-{{< tweet user="ivanlesa" id="1767835758923018466" >}}
+{{< x user="ivanlesa" id="1767835758923018466" >}}
 
 ### Alberto Castellano
-{{< tweet user="albercastellano" id="817477546514255872" >}}
+{{< x user="albercastellano" id="817477546514255872" >}}
 
 ### Beny Aguiar
-{{< tweet user="BenyAguiar" id="1244355117471670272" >}}
+{{< x user="BenyAguiar" id="1244355117471670272" >}}
 
 ### Sara
-{{< tweet user="sarasvnt" id="1531010236982624257" >}}
+{{< x user="sarasvnt" id="1531010236982624257" >}}
 
 ### David Rodríguez
-{{< tweet user="drodriguezfoto" id="1485650860264804359" >}}
+{{< x user="drodriguezfoto" id="1485650860264804359" >}}

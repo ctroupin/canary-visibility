@@ -25,7 +25,7 @@ Finding pictures for these 2 islands is not easy...
 
 ### Rubén Rodríguez
  
-{{< tweet user="concretera2000" id="1130417999779893248" >}}
+{{< x user="concretera2000" id="1130417999779893248" >}}
 
 ### Juan A. Roja
 

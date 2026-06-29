@@ -23,10 +23,10 @@ With the shortest distance between them below 70 km, observing El Hierro from La
 Finding pictures was not so easy...  
 
 ### Rubén Rodríguez
- {{< tweet user="concretera2000" id="1434470687482290182" >}}
+ {{< x user="concretera2000" id="1434470687482290182" >}}
 
 ### Noreen Dalton
- {{< tweet user="nordaltsee" id="1484727492153942020" >}}
+ {{< x user="nordaltsee" id="1484727492153942020" >}}
 
 ### Alicia
-{{< tweet user="AliciaH35335691" id="1658533713548828682" >}}
+{{< x user="AliciaH35335691" id="1658533713548828682" >}}

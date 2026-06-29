@@ -44,4 +44,4 @@ Tenerife is visible from north to south when observed from the top of La Palma. 
 
 In May 2024, Juanjo enjoyed excellent visibility conditions to create this amazing pictures of the Teide.
 
-{{< tweet user="astro_jj_" id="1789976827533947358" >}}
+{{< x user="astro_jj_" id="1789976827533947358" >}}

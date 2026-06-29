@@ -26,15 +26,15 @@ Desde el suroest, la separación entre las islas es más clara, aunque las fotos
 | :--: |
 | Panorama simulado desde el suroest con https://www.peakfinder.org. |
 
-{{< tweet user="MeteoSW" id="1652400012007964677" >}}
+{{< x user="MeteoSW" id="1652400012007964677" >}}
 
 ## Fotografos
 
 ### Eduardo de la Cruz
 
-{{< tweet user="Eduadelacruz" id="1480479148271443972" >}}
+{{< x user="Eduadelacruz" id="1480479148271443972" >}}
 
 ### Elvira Olmo Guillen
 
-{{< tweet user="GuillenOlmo" id="1277388021097259008" >}}
+{{< x user="GuillenOlmo" id="1277388021097259008" >}}
 
