@@ -1,8 +1,10 @@
 baseURL: https://ctroupin.github.io/canary-visibility/
-languageCode: en-us
+locale: en-us
 title: Visibility in the Canary Islands
 theme: hugo-refresh
 # theme: ../..
+
+ignoreErrors: ["error-remote-getjson"]
 
 #########################################
 ######## Uncomment this option ##########
@@ -157,10 +159,10 @@ params:
 ###################################################################
 languages:
   en:
-    languageName:       English
+    locale:       English
     weight:             1
   es:
-    languageName:       Spanish
+    locale:       Spanish
     weight:             2
     # When Specifying different parameters for a different language 
     # you need to specify all the mandatory sub-parameters as well.
@@ -198,7 +200,7 @@ languages:
            title: Gitlab
         copyright: ctroupin - 2024
   fr:
-    languageName:       French
+    locale:       French
     weight:             3
     params:
       homepage:
