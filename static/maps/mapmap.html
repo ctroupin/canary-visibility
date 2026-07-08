@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<base target="_top">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<title>Distancias La Palma - Tenerife</title>
+	
+	<link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+	<script src="https://cdn.jsdelivr.net/npm/leaflet.geodesic"></script>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	<style>
+		html, body {
+			height: 100%;
+			margin: 0;
+		}
+		.leaflet-container {
+			height: 400px;
+			width: 600px;
+			max-width: 100%;
+			max-height: 100%;
+		}
+		.myDivIcon {
+			text-align: center;
+			/* Horizontally center the text (icon) */
+			line-height: 20px;
+			color: #005ead
+			/* Vertically center the text (icon) */
+		}
+	</style>
+
+	<script>
+		function calculateMeanPosition(place1, place2) {
+			const meanLat = (place1.lat + place2.lat) / 2;
+			const meanLng = (place1.lng + place2.lng) / 2;
+			return L.latLng(meanLat, meanLng);
+		}
+	</script> 
+
+	
+</head>
+<body>
+
+
+
+<div id="map" style="width: 800px; height: 600px;"></div>
+<script>
+
+	const topIsland1 = L.latLng(28.27276, -16.64236);
+	const topIsland2 = L.latLng(28.75448, -17.88511);
+	const topIsland1 = L.latLng(28.56992, -17.7599);
+	const topIsland1 = L.latLng(28.35378, -16.9236); 
+	
+	var distText = (topIsland1.distanceTo(topIsland2)/1000.).toFixed(1) + " km";
+	console.log(distText);
+
+	const map = L.map('map').setView(calculateMeanPosition(topIsland1, topIsland2), 9);
+	const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+		maxZoom: 19,
+		attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+	}).addTo(map);
+
+	
+	const fontAwesomeIcon = L.divIcon({
+		html: '<i class="fa-solid fa-mountain fa-2x"></i>',
+		iconSize: [40, 40],
+		className: 'myDivIcon'
+	});
+
+	const marker1 = L.marker(topIsland1, {icon: fontAwesomeIcon}).addTo(map)
+	const marker2 = L.marker(topIsland2, {icon: fontAwesomeIcon}).addTo(map)
+	const geodesic = new L.Geodesic([topIsland1, topIsland2]).addTo(map);
+	
+	var myCustomText = L.divIcon({
+		html: `<div style="color: blue; font-size: 18px; background-color: rgba(255, 255, 255, 0.7); white-space: nowrap;">${distText}</div>`,
+		className: 'custom-text-layer', 
+		iconSize: null // Empêche Leaflet de forcer une taille fixe carrée
+	});
+
+	L.marker(calculateMeanPosition(topIsland1, topIsland2), { icon: myCustomText }).addTo(map);
+	
+</script>
+
+
+
+</body>
+</html>
