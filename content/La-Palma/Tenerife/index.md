@@ -11,6 +11,8 @@ tags: ["Tenerife", "La Palma"]
 
 ![Distances between La Palma and Tenerife](mindist_lapalma_tenerife.png)
 
+{{< myiframe "maps/mapmap.html" >}}
+
 ## Panorama
 
 Tenerife is visible from north to south when observed from the top of La Palma. What is interesting is when the observations is closer to sea level, Tenerife appears to be separated into two different islands.
