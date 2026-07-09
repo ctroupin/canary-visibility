@@ -13,6 +13,7 @@
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 	<script src="https://cdn.jsdelivr.net/npm/leaflet.geodesic"></script>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	<script src="https://unpkg.com/leaflet-providers@latest/leaflet-providers.js"></script>
 	<style>
 		html, body {
 			height: 100%;
@@ -28,7 +29,7 @@
 			text-align: center;
 			/* Horizontally center the text (icon) */
 			line-height: 20px;
-			color: #005ead
+			color: #32a15d
 			/* Vertically center the text (icon) */
 		}
 	</style>
@@ -47,41 +48,56 @@
 
 
 
-<div id="map" style="width: 800px; height: 600px;"></div>
+<div id="map" style="width: 800px; height: 1600px;"></div>
 <script>
 
-	const topIsland1 = L.latLng(28.27276, -16.64236);
-	const topIsland2 = L.latLng(28.75448, -17.88511);
-	const topIsland1 = L.latLng(28.56992, -17.7599);
-	const topIsland1 = L.latLng(28.35378, -16.9236); 
+	topIsland1 = L.latLng(28.27276, -16.64236);
+	topIsland2 = L.latLng(28.75448, -17.88511);
+	closestIsland1 = L.latLng(28.56992, -17.7599);
+	closestIsland2 = L.latLng(28.35378, -16.9236); 
 	
 	var distText = (topIsland1.distanceTo(topIsland2)/1000.).toFixed(1) + " km";
-	console.log(distText);
+	var distTextClose = (closestIsland1.distanceTo(closestIsland2)/1000.).toFixed(1) + " km";
+
 
 	const map = L.map('map').setView(calculateMeanPosition(topIsland1, topIsland2), 9);
-	const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-		maxZoom: 19,
-		attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-	}).addTo(map);
+	L.tileLayer.provider('CartoDB.Positron').addTo(map);
+	var baseMaps = {
+		"CartoDB": L.tileLayer.provider('CartoDB.Positron'),
+		"CyclOSM": L.tileLayer.provider('CyclOSM'),
+		"OpenStreetMap": L.tileLayer.provider('OpenStreetMap.Mapnik'),
+		"ESRI World Imagery": L.tileLayer.provider('Esri.WorldImagery'),
+	};
 
-	
+
 	const fontAwesomeIcon = L.divIcon({
 		html: '<i class="fa-solid fa-mountain fa-2x"></i>',
 		iconSize: [40, 40],
-		className: 'myDivIcon'
+		className: 'myDivIcon',
 	});
+
 
 	const marker1 = L.marker(topIsland1, {icon: fontAwesomeIcon}).addTo(map)
 	const marker2 = L.marker(topIsland2, {icon: fontAwesomeIcon}).addTo(map)
+	const marker3 = L.marker(closestIsland1).addTo(map)
+	const marker4 = L.marker(closestIsland2).addTo(map)
 	const geodesic = new L.Geodesic([topIsland1, topIsland2]).addTo(map);
+	const geodesic2 = new L.Geodesic([closestIsland1, closestIsland2], {color: 'green', weight: '3', dashArray: '7, 7', dashOffset: '20'}).addTo(map);
 	
 	var myCustomText = L.divIcon({
 		html: `<div style="color: blue; font-size: 18px; background-color: rgba(255, 255, 255, 0.7); white-space: nowrap;">${distText}</div>`,
 		className: 'custom-text-layer', 
 		iconSize: null // Empêche Leaflet de forcer une taille fixe carrée
 	});
+	var myCustomText2 = L.divIcon({
+		html: `<div style="color: green; font-size: 18px; background-color: rgba(255, 255, 255, 0.7); white-space: nowrap;">${distTextClose}</div>`,
+		className: 'custom-text-layer', 
+		iconSize: null // Empêche Leaflet de forcer une taille fixe carrée
+	});
 
 	L.marker(calculateMeanPosition(topIsland1, topIsland2), { icon: myCustomText }).addTo(map);
+	L.marker(calculateMeanPosition(closestIsland1, closestIsland2), { icon: myCustomText2 }).addTo(map);
+	L.control.layers(baseMaps, [], {autoZIndex:false, collapsed:false}).addTo(map);
 	
 </script>
 

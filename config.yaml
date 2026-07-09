@@ -29,6 +29,13 @@ blackfriday:
 Taxonomies:
   tag: "tags"
 
+ignoreLogs: ['warning-goldmark-raw-html']
+
+markup:
+     goldmark:
+       renderer:
+         unsafe: true
+
 # Supported fonts are:
 # https://fonts.google.com/
 

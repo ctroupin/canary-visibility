@@ -9,9 +9,7 @@ summary: "Visibility: frequent"
 tags: ["Tenerife", "La Palma"]
 ---
 
-![Distances between La Palma and Tenerife](mindist_lapalma_tenerife.png)
-
-{{< myiframe "maps/mapmap.html" >}}
+{{< mapframe "maps/tenerife-lapalma.html" "1000%" "500px" >}}
 
 ## Panorama
 
