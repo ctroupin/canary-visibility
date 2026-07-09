@@ -9,9 +9,13 @@ summary: "Visibility: moderate"
 tags: ["Fuerteventura", "Gran Canaria"]
 ---
 
+Separated by 85 km (between Gando and Jandía), the islands are in good conditions to be seen from one to the other. The distance between the summits (120 km) is also sufficiently low to allow their observation.
+
 ![Distances between Fuerteventura and Gran Canaria](mindist_fuerteventura_grancanaria.png)
 
 ## Panorama
+
+From Fuerteventura summit, a great part of Gran Canaria can be seen.
 
 | ![Gran Canaria from Fuerteventura](fuerteventura_grancanaria_pano.png) |
 |:--:| 
@@ -23,13 +27,13 @@ tags: ["Fuerteventura", "Gran Canaria"]
 Given that most of the pictures that show Gran Canaria also show Tenerife, the list is the same as [Tenerife seen from Fuerteventura](../tenerife/)
 
 ### DaniTSpotter
-{{< tweet user="DaniTSpotter" id="1655263439671947264" >}}
+{{< x user="DaniTSpotter" id="1655263439671947264" >}}
 
 ### Javi F.
-{{< tweet user="javift77" id="1477727836266020870" >}}
+{{< x user="javift77" id="1477727836266020870" >}}
 
 ### CaptainMarcinRX
-{{< tweet user="CaptainMarcinRX" id="1078386932005122050" >}}
+{{< x user="CaptainMarcinRX" id="1078386932005122050" >}}
 
 ### Pedro López Batista
 

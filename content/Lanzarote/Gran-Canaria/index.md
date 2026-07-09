@@ -19,7 +19,7 @@ According to the panorama simulations, a large portion of Gran Canaria can be se
 ## Photographers
 
 ### Juan José Cordero Valeriano
- {{< tweet user="Xuancor" id="1531731141362913280" >}}
+ {{< x user="Xuancor" id="1531731141362913280" >}}
 
 ### Gustavo Medina
 

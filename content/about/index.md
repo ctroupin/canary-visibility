@@ -1,6 +1,6 @@
 ---
 title: "About visibility"
-date: 2023-05-01T22:30:00+01:00
+date: 2024-04-02T17:30:00+01:00
 draft: false
 hideLastModified: false
 showInMenu: true
@@ -11,20 +11,20 @@ showInMenu: true
 
 The visibility depends on several parameters, the most relevant is the altitude of the observer: the highest altitude, the farthest distance one can observe. With a bit of geometry and assuming Earth is a sphere of radius `R` equal to 6371 km, we can derive the formula to estimate the distance `D` to the horizon, knowing the altitude `H` of the observer:
 
-> D ≃ √(2 h R)
+$$ D ≃ \sqrt{2 h R}$$
 
 for example:
 - at 3 meters above sea level: the horizon is located at 6 km;
 - from Pico de las Nieves (1949 m): 158 km
 - from Pico del Teide (3715 m): 218 km.
 
-This does not mean that one cannot observe anything behind that distance: an object at altiude `h` can be seen, provided that the relation
+This does not mean that one cannot observe anything behind that distance: an object at altitude `h` can be seen, provided that the relation
 
-> D < 3.57 (√h + √H)
+$$ D \lt 3.57 \times (\sqrt{h} + \sqrt{H}) $$
 
-is satisfied. For example, the distance between el Teide and Pico de las Nieves is about 110 km.
+is satisfied. For example, the distance `D` between el Teide and Pico de las Nieves is about 110 km.
 
-> 110 < 3.57 * (√(1.949) + √(3715.)) = 220
+$$ 110 \lt 3.57 \times (\sqrt{1949} + \sqrt{3715}) = 220 $$
 
 The condition is satisfied (110 < 220).
 
@@ -49,6 +49,6 @@ The case of the Salvage Islands (Portugal) is different, as it is theoretically 
 
 * https://beyondrange.wordpress.com/: compilation of long distance photos, including the current Guiness World Record (443 km).
 * https://horitzonsllunyans.wordpress.com/: distant photography, mostly in Spain (in Catalan).
-* https://www.ing.iac.es//~crb/trav/lp/islandvis.html: they focus on the visibility from La Palma with maps, pictures and calculations.a
+* https://www.ing.iac.es//~crb/trav/lp/islandvis.html: they focus on the visibility from La Palma with maps, pictures and calculations.
 
 

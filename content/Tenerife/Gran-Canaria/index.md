@@ -12,5 +12,13 @@ tags: ["Tenerife", "Gran Canaria"]
 - Shortest distance: 60.6 km
 - Distance between summits: 110.6 km
 
-{{< tweet user="Borjarancel" id="1477237128597749764" >}}
+{{< x user="Borjarancel" id="1477237128597749764" >}}
 
+https://twitter.com/papageno_mc/status/1718887849485861084
+
+
+https://twitter.com/IbelliWeather/status/1726531207457042438
+
+https://twitter.com/papageno_mc/status/1726520676557914227
+
+https://twitter.com/papageno_mc/status/1718887849485861084

@@ -22,7 +22,7 @@ tags: ["Fuerteventura", "Gran Canaria"]
 
 ### DaniTSpotter
 
-{{< tweet user="DaniTSpotter" id="1655263439671947264" >}}
+{{< x user="DaniTSpotter" id="1655263439671947264" >}}
 
 ## Pedro López Batista
 

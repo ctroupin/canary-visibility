@@ -38,15 +38,15 @@ Capturing the whole island from north to south is also possible but might requir
 
 ### A. Castellano
 
-{{< tweet user="albercastellano" id="807917732163448833" >}}
+{{< x user="albercastellano" id="807917732163448833" >}}
 
 ### J. Marrero
 
 Job often shows us great pictures of the Teide with Montaña de Gáldar in the foreground:
 
-{{< tweet user="marrerojob" id="1652256403896127488" >}}
+{{< x user="marrerojob" id="1652256403896127488" >}}
 
 ### MeteoSW
 
-{{< tweet user="MeteoSW" id="1652231338806722566" >}}
+{{< x user="MeteoSW" id="1652231338806722566" >}}
 

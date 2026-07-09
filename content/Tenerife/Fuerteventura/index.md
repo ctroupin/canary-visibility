@@ -12,5 +12,5 @@ tags: ["Fuerteventura", "Tenerife"]
 - Shortest distance: 254.8 km
 - Distance between summits: 224.9 km
   
-{{< tweet user="Borjarancel" id="1477237128597749764" >}}
+{{< x user="Borjarancel" id="1477237128597749764" >}}
 

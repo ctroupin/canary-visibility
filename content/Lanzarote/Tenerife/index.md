@@ -22,7 +22,7 @@ Capture the Teide from Lanzarote is probably one of the most challenging picture
 ### J.J. Cordero
 
 J.J. Cordero often publishes such pictures, for example this one taken on 1 May 2023: 
-{{< tweet user="Xuancor" id="1653332321993478144" >}}
+{{< x user="Xuancor" id="1653332321993478144" >}}
 
 #### Other examples from Xuancor
 * https://twitter.com/Xuancor/status/1531041956658397185 [30 May 2022]
@@ -35,11 +35,11 @@ Gustavo Medina is also famous for his amazing pictures of Lanzarote landscapes.
 Check out his [Instagram](https://www.instagram.com/gustavomedinaphoto) or his personal webpage: www.gustavomedinaphoto.com.
 
 Here he captured the Teide in January 2022:
-{{< tweet user="7IslasCanarias" id="1477581322105278473" >}}
+{{< x user="7IslasCanarias" id="1477581322105278473" >}}
 
 ### rafaelsanexp
 
-{{< tweet user="rafaelsanexp" id="1653349593671663616" >}}
+{{< x user="rafaelsanexp" id="1653349593671663616" >}}
 
 ## In the news
 

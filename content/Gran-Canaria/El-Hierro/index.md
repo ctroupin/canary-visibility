@@ -35,23 +35,23 @@ In order to tell the difference with clouds, it is useful to know the shape of t
 Plenty of pictures are available on social media, most of them taken at sunset, but not always!
 
 ### Juan Antonio Rico
-{{< tweet user="JuanAntRico" id="1654058097608884226" >}}
+{{< x user="JuanAntRico" id="1654058097608884226" >}}
 
 ### Mr Vivar
-{{< tweet user="mr_vivar_" id="1477939297147830275" >}}
+{{< x user="mr_vivar_" id="1477939297147830275" >}}
 
 ### Adrián Díaz
-{{< tweet user="AdrianDiJi" id="1604870385862049793" >}}
+{{< x user="AdrianDiJi" id="1604870385862049793" >}}
 
 ### Carlos Solinis Camalich
-{{< tweet user="solinisc" id="1654503720053252098" >}}
+{{< x user="solinisc" id="1654503720053252098" >}}
 
 ### José Manuel Caballero Fernández
-{{< tweet user="JoseManuelCaba" id="1623020960767934466" >}}
-{{< tweet user="JoseManuelCaba" id="1224302238916661248" >}}
+{{< x user="JoseManuelCaba" id="1623020960767934466" >}}
+{{< x user="JoseManuelCaba" id="1224302238916661248" >}}
 
 ### Myself 
-{{< tweet user="CharlesTroupin" id="1479954034920411143" >}}
+{{< x user="CharlesTroupin" id="1479954034920411143" >}}
 
 
 

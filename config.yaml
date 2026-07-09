@@ -1,8 +1,10 @@
 baseURL: https://ctroupin.github.io/canary-visibility/
-languageCode: en-us
+locale: en-us
 title: Visibility in the Canary Islands
 theme: hugo-refresh
 # theme: ../..
+
+ignoreErrors: ["error-remote-getjson"]
 
 #########################################
 ######## Uncomment this option ##########
@@ -141,26 +143,26 @@ params:
        title: Twitter
     # option to specify your instagram username in the footer; 
     # **uncomment** the below lines to show in footer
-    # instagram: 
-    #    link: username
-    #    title: Instagram
+    instagram: 
+      link: ctroupin
+      title: Instagram
     # option to specify your telegram username in the footer; 
     # **uncomment** the below lines to show in footer
     # telegram: 
     #    link: username
     #    title: Telegram
     # option to specify the copyright in the footer
-    copyright: C. Troupin - 2023
+    copyright: C. Troupin - 2024
 
 ###################################################################
 ################## multilanguage support options ##################
 ###################################################################
 languages:
   en:
-    languageName:       English
+    locale:       English
     weight:             1
   es:
-    languageName:       Spanish
+    locale:       Spanish
     weight:             2
     # When Specifying different parameters for a different language 
     # you need to specify all the mandatory sub-parameters as well.
@@ -187,14 +189,46 @@ languages:
         twitter: 
            link: charlestroupin
            title: Twitter
-        # instagram: 
-        #   link: username
-        #   title: Instagram
+        instagram: 
+           link: ctroupin
+           title: Instagram
         github: 
            link: ctroupin
            title: Github
         gitlab:
            link: ctroupin
            title: Gitlab
-        copyright: ctroupin - 2023
+        copyright: ctroupin - 2024
+  fr:
+    locale:       French
+    weight:             3
+    params:
+      homepage:
+        title: Visibilité dans les Îles Canaries
+        subtitle: Découvre quelles îles peuvent être vue depuis chaque île, quand les conditions atmosphérique le permettent.
+        image: "canarias_satellite.jpg" # worker.svg 
+        imageWidth: 500px
       
+      # Some sub-parameters of the "footer" parameter
+      # can be omitted because the code allows for them to be 
+      # missed but they will treated as they do not exist,
+      # i.e., the parameters of the default language
+      # won't be inherited.
+      footer:
+        logo: "/images/refresh-square.svg"
+        #email: 
+        #  link: имя.фамилия@домен.com
+        #  title: Эл. адрес
+        twitter: 
+           link: charlestroupin
+           title: Twitter
+        instagram: 
+           link: ctroupin
+           title: Instagram
+        github: 
+           link: ctroupin
+           title: Github
+        gitlab:
+           link: ctroupin
+           title: Gitlab
+        copyright: ctroupin - 2024

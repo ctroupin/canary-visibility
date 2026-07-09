@@ -29,15 +29,15 @@ From the southwestern coast, the separation is clearer even if pictures from tha
 | :--: |
 | Simulated panorama from the southwest with https://www.peakfinder.org. |
 
-{{< tweet user="MeteoSW" id="1652400012007964677" >}}
+{{< x user="MeteoSW" id="1652400012007964677" >}}
 
 ## Photographers
 
 ### Eduardo de la Cruz
 
-{{< tweet user="Eduadelacruz" id="1480479148271443972" >}}
+{{< x user="Eduadelacruz" id="1480479148271443972" >}}
 
 ### Elvira Olmo Guillen
 
-{{< tweet user="GuillenOlmo" id="1277388021097259008" >}}
+{{< x user="GuillenOlmo" id="1277388021097259008" >}}
 
