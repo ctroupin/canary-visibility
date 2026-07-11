@@ -1,0 +1,32 @@
+{{ .Scratch.Set "height" (.Get "height") }}
+{{ .Scratch.Set "unit" (.Get "unit") }}
+{{ .Scratch.Set "ordinal" .Ordinal }}
+{{ .Scratch.Set "items" (.Get "items") }}
+<div id="carousel{{ .Ordinal }}" class="carousel" duration="{{ .Get `duration` }}">
+    <ul>
+      {{ range $index, $slide := .Page.Resources.Match (print (.Get "data") "/*") }}
+        {{ $author := "" }}
+        {{ with $slide.Exif }}
+          {{ if .Tags.Artist }}
+            {{ $author = .Tags.Artist }}
+          {{ else if .Tags.Copyright }}
+            {{ $author = .Tags.Copyright }}
+          {{ end }}
+        {{ end }}
+        {{ if not $author }}
+          {{ $author = $slide.Title }}
+        {{ end }}
+        <li id="c{{ $.Scratch.Get "ordinal" }}_slide{{ add $index 1 }}" style="min-width: calc(100%/{{ $.Scratch.Get "items" }}); padding-bottom: {{ $.Scratch.Get "height" }}{{ $.Scratch.Get "unit" }};">
+          <img src="{{ $slide.RelPermalink }}" alt="{{ $author }}" />
+          <div><div>{{ $author }}</div></div>
+        </li>
+      {{ end }}
+    </ul>
+    <ol>
+      {{ range $index, $page := .Page.Resources.Match (print (.Get "data") "/*") }}
+        <li><a href="#c{{ $.Scratch.Get "ordinal" }}_slide{{ add $index 1 }}"></a></li>
+      {{ end }}
+    </ol>
+    <div class="prev">&lsaquo;</div>
+    <div class="next">&rsaquo;</div>
+</div>
