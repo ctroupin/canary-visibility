@@ -12,7 +12,7 @@ tags: ["El Hierro", "Gran Canaria"]
 It is not easy to find pictures of Gran Canaria taken from El Hierro. 
 In addition to the relatively long distance (more than 200 km) separating the two islands, one also has to consider that there are fewer people going on the summit of El Hierro to take pictures than people going to the summit of Gran Canaria.
 
-![Distances between Gran Canaria from El Hierro](mindist_elhierro_grancanaria.png)
+{{< mapframe "maps/elhierro-grancanaria.html" "1000%" "500px" >}}
 
 ## Panorama
 

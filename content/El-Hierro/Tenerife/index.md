@@ -11,7 +11,7 @@ tags: ["Tenerife", "El Hierro"]
 
 With more than 110 km between the two islands, the observation is not always possible.  
 
-![Distances between Tenerife and El Hierro](mindist_elhierro_tenerife.png)
+{{< mapframe "maps/elhierro-tenerife.html" "1000%" "500px" >}}
  
 ## Panorama
 

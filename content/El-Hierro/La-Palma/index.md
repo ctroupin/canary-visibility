@@ -11,7 +11,7 @@ tags: ["La Palma", "El Hierro"]
 
 With a minimum distance shorter than 70 kilometers (between el Faro de Fuencaliente and Charco Manso), El Hierro and La Palma are sufficiently close to guarantee frequent observations from one to the other. 
 
-![Distances between La Palma and El Hierro](mindist_elhierro_lapalma.png)
+{{< mapframe "maps/elhierro-lapalma.html" "1000%" "500px" >}}
 
 ## Panorama
 

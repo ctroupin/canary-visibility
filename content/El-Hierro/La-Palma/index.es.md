@@ -9,5 +9,5 @@ summary: "Visibilidad: frecuente"
 tags: ["La Palma", "El Hierro"]
 ---
 
-![Distancias entre La Palma y El Hierro](mindist_elhierro_lapalma.png)
+{{< mapframe "maps/elhierro-lapalma.html" "1000%" "500px" >}}
 

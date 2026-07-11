@@ -11,7 +11,7 @@ tags: ["La Gomera", "El Hierro"]
 
 The 2 islands are relatively close, making the observation possible from several locations.
 
-![Distances between La Gomera and El Hierro](mindist_elhierro_lagomera.png)
+{{< mapframe "maps/elhierro-lagomera.html" "1000%" "500px" >}}
 
 ## Panorama
 

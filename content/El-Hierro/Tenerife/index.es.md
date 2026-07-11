@@ -9,6 +9,16 @@ summary: "Seeing Gran Canaria from El Hierro is possible, yet not frequent."
 tags: ["Tenerife", "Gran Canaria"]
 ---
 
-![Distancias entre Tenerife y El Hierro](mindist_elhierro_tenerife.png)
+{{< mapframe "maps/elhierro-tenerife.html" "1000%" "500px" >}}
 
 
+## Panorama
+
+La parte norte de Teneride esconde detrás de La Gomera.
+| ![Tenerife from El Hierro](elhierro_tenerife_pano.png) |
+| :--: | 
+| _Vista simulada desde el Pico de Malpaso (1501 m) con https://www.peakfinder.org._ |
+
+## {{< fa camera-retro >}} Pictures
+
+{{< carousel items="1" height="500" unit="px" duration="1000000" data="images" >}}

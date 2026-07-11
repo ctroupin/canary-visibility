@@ -9,5 +9,5 @@ summary: "Visibidad: frecuente"
 tags: ["La Gomera", "El Hierro"]
 ---
 
-![Distancias entre La Gomera y El Hierro](mindist_elhierro_lagomera.png)
+{{< mapframe "maps/elhierro-lagomera.html" "1000%" "500px" >}}
 
