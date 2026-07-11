@@ -9,4 +9,5 @@ summary: "Seeing Gran Canaria from El Hierro is possible, yet not frequent."
 tags: ["Tenerife", "La Palma"]
 ---
 
+{{< mapframe "maps/tenerife-lapalma.html" "1000%" "500px" >}}
 

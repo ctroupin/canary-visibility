@@ -4,4 +4,3 @@ subtitle: "Desde la isla del Meridiano, se pueden ver todas las islas occidental
 date: 2023-05-02T22:30:00+01:00
 draft: false
 ---
-
